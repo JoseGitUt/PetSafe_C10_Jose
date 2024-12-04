@@ -6,7 +6,7 @@ const AllPetsAvailable = ({ mascotas }) =>
 {
     return (
         <>
-            <Head title="Mascotas en adopción - Cambio para verificar funcionamiento" />
+            <Head title="Mascotas en adopción" />
             
             <div className="p-12 mt-10">
             <p
