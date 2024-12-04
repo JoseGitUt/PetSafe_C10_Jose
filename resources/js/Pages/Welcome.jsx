@@ -15,8 +15,8 @@ const Welcome = ({ auth, mascotas, reportes }) => {
             <div className="pb-80 pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
                 <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
                     <div className="sm:max-w-lg">
-                        <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Pet - Safe</h1>
-                        <p className="mt-4 text-xl text-gray-900">¿Quiénes somos nosotros?</p>
+                        <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Mascotas seguras</h1>
+                        <p className="mt-4 text-xl text-gray-900">¿Quiénes somos?</p>
                         <p className="mt-4 text-justify text-gray-500">Somos un equipo comprometido del Municipio de Othón P. Blanco, integrado por profesionales apasionados por el bienestar animal y la mejora de nuestra comunidad. Nuestro proyecto, "PetSafe", nace del compromiso de enfrentar el creciente problema del abandono de mascotas en nuestra ciudad y, en un futuro, expandir su impacto en todo el estado de Quintana Roo.</p>
                         <p className="mt-4 text-xl text-gray-900">¿Qué queremos lograr?</p>
                         <p className="mt-4 text-justify text-gray-500">Nuestro objetivo es desarrollar una plataforma integral que ofrezca soluciones efectivas para la gestión, protección y cuidado de los animales en situación de abandono. Queremos crear un sistema que permita a los ciudadanos reportar casos de maltrato y abandono, localizar mascotas perdidas, y promover la adopción responsable. Además, buscamos facilitar las donaciones para apoyar a refugios y organizaciones dedicadas al cuidado animal, proporcionar un directorio actualizado de servicios veterinarios y refugios, e incluir secciones educativas que fomenten el conocimiento sobre el cuidado de mascotas.</p>
